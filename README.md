@@ -1,3 +1,4 @@
-Clone repo
-npm install
-npm run serve
+1. clone repo
+
+2. npm install
+3. npm run serve
